@@ -10,6 +10,3 @@ This repository contains my assignments for the MIT OCW 6.006 Introduction to Al
 - Dr. Jason Ku
 - Prof. Justin Solomon
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Satyam-Naik/MIT-OCW-6.006---Introduction-to-Algorithms/blob/main/LICENSE) file for details.
